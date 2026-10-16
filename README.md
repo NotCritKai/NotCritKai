@@ -17,19 +17,20 @@
 
 - 👥 **0** followers · **0** following
 
+
 *Small, useful work over vague claims.*
 
 ## Case studies
 
 <table>
-<tr><td width="32%"><b><a href="https://github.com/NotCritKai/The-Cinders-We-Obey">The-Cinders-We-Obey</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/NotCritKai/The-Cinders-We-Obey">The-Cinders-We-Obey</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · CSS · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/NotCritKai/Ender-Storage-Networks">Ender-Storage-Networks</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Java · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/NotCritKai/Cruetzfeldt-Jakobs">Cruetzfeldt-Jakobs</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
 </table>
 
 ## Creative toolkit
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Make something memorable
 
